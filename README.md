@@ -1,5 +1,7 @@
 ## Hi there 👋
+I'm Albert Li, a graduate student in National Chung Cheng University, Taiwan.
 
+- 🌱 I’m currently learning [Feaderated Learning], [Ensemble Learning], [Traffic prediction mission] and [Traffic anomaly incident detection mission]
 <!--
 **AlbertLi-221/AlbertLi-221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
